@@ -3,5 +3,10 @@ A python script that lets you check if a web domain (or multiple domains at once
 
 How to use it:
 
-./domain.py example.com 
+One domain:
+
+./domain.py example.com
+
+Multiple domains:
+
 ./domain.py example1.com example2.org example3.net example4.com
