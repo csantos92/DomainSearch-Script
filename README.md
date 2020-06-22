@@ -1,4 +1,4 @@
-# Search Domain Script
+# Search domain Script
 A python script that lets you check if a web domain (or multiple domains at once) is available to buy or not.
 
 How to use it:
